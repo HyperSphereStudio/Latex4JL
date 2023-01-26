@@ -1,0 +1,1 @@
+include("gtemplates/AAJournal.jl")

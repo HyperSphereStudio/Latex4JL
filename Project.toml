@@ -1,0 +1,8 @@
+name = "Latex4JL"
+uuid = "f9ccf804-1d3f-4c3a-9ef8-bc1733b886fd"
+authors = ["Johnathan Bizzano"]
+version = "5.0.0"
+
+[deps]
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
